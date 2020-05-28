@@ -6,7 +6,7 @@ from setuptools import setup, find_packages, Command
 from os import path
 
 
-NAME = "dreaml"
+NAME = "pydreaml"
 DESCRIPTION = "Python version of DreaML for probabilistic relational mixed discrete-continuous learning and inference."
 URL = "https://github.com/ML-KULeuven/py-dreaml"
 EMAIL = "nitesh.kumar@kuleuven.be"
